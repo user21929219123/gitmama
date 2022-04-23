@@ -1,0 +1,10 @@
+body {
+    background-image:linear-gradient(chocolate,lightblue,#3E0172); 
+
+}
+
+.rtp{
+height: 190px;
+width: 340px;
+padding: 20px 60px 20px 60px;
+}
